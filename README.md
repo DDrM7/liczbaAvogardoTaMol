@@ -1,0 +1,2 @@
+# liczbaAvogardoTaMol
+Strona Od Chemii 
